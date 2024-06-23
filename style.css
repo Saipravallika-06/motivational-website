@@ -1,0 +1,22 @@
+body{
+  background-color:#401F71 ;
+  
+
+}
+
+div{
+  
+  margin-left: 30%;
+  width:50%;
+  margin-top: 20%;
+
+}
+
+h1{
+  color:#FDAF7B ;
+  text-transform: capitalize;
+  font-family: "Playwrite US Modern", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
